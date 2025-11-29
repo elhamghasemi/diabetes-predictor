@@ -13,4 +13,4 @@ A simple and powerful machine learning model that predicts diabetes progression 
 - Cross-validation R² ≈ 0.48
 - Extremely interpretable and production-ready
 
-Live app → https://your-link-will-be-here.streamlit.app
+Live app → [s://your-link-will-be-here.streamlit.app](https://diabetes-predictor-5jgxws2tpseueafxhhdxk3.streamlit.app/)
